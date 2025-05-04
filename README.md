@@ -119,7 +119,7 @@ torchvision
 ---
 
 ## 📷 Sample Results
-![alt text](<WhatsApp Image 2025-05-03 at 3.14.11 PM-1.jpeg>)
+![alt text](<WhatsApp Image 2025-05-03 at 16.33.25.jpeg>)
 Explore more output videos with tracked pedestrians and ID labels  saved in `results/`.
 
 ---
