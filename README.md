@@ -123,4 +123,10 @@ torchvision
 Explore more output videos with tracked pedestrians and ID labels  saved in `[Results](https://drive.google.com/file/d/1MxUTAs9juJsxAt73dGspiYHMIcWYPfFk/view?usp=share_link)
 .
 
+## Presentation and Output
+
+You can find the complete project presentation, model outputs, and demonstration at the following link:
+
+🔗 [Project Presentation and Output (Canva)](https://www.canva.com/design/DAGmeBgjDFY/OYlEzlf3RberhFJSjqfh5Q/edit?utm_content=DAGmeBgjDFY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ---
